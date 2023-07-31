@@ -1,0 +1,9 @@
+python==3.10.11
+pandas==1.5.2
+matplotlib==3.6.3
+scikit-learn==1.2.1
+seaborn==0.12.2
+python-dateutil==2.8.2
+numpy==1.24.2
+joblib==1.2.0
+scipy==1.10.0
